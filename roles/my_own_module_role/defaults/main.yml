@@ -1,0 +1,5 @@
+---
+# defaults file for my_own_module_role
+filename: "cool_file"
+path: "/tmp"
+content: "Very nice"
