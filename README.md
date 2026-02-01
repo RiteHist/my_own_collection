@@ -6,10 +6,8 @@ Documentation for the collection.
 
 Пример использования в play:
 
-`
----
+```---
 - name: Test my own module
   hosts: localhost
   roles:
-    - my_own_module_role
-`
+    - my_own_module_role```
