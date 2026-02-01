@@ -2,6 +2,6 @@
 # tasks file for my_own_module_role
 - name: Test my module
   my_own_module:
-    filename: {{ filename }}
-    path: {{ path }}
-    content: {{ content }}
+    filename: "{{ filename }}"
+    path: "{{ path }}"
+    content: "{{ content }}"
